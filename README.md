@@ -19,7 +19,7 @@
 
         	
                 
-            <div class="container-fluid p-5">
+            <div class="container-fluid p-8">
 	    			<section class="info">
         			    <h3>Coordonnées</h3>
 
@@ -30,6 +30,9 @@
 						    Ville : Lens 62300
 					 	    </p>
 					</section>
+
+                    <br>
+                    <br>
 
 					<section class="perso">
 					    <h3>Profil Personnel</h3>
@@ -49,35 +52,41 @@
 					    <h3 class="titre3">Expérience professionnelle</h3>
 
 						
-						<ul class="experience">
-							<li>Guichetier - La poste (Bully les mines - Février 2015 / Mars 2015)</li>
-							<li>Stagiaire - Leroy Merlin (Rayon Quincaillerie - Noeux les Mines - Novembre 2012 / Décembre 2012)</li> 
-							<li>Stagiaire - Conforama (Rayon bureau - Bruay la Buissière - Mai 2010 / Juin 2010</li>
-							<li>Stagiaire - Carrefour Market (Rayon boulangerie - Barlin - Janvier 2009 / Février 2009</li>
-						</ul>
+						
+							Guichetier - La poste (Bully les mines - Février 2015 / Mars 2015)<br>
+							Stagiaire - Leroy Merlin (Rayon Quincaillerie - Noeux les Mines - Novembre 2012 / Décembre 2012)<br>
+							Stagiaire - Conforama (Rayon bureau - Bruay la Buissière - Mai 2010 / Juin 2010<br>
+							Stagiaire - Carrefour Market (Rayon boulangerie - Barlin - Janvier 2009 / Février 2009<br>
+
+                            <br>
+                            <br>
+						
 						
 						</article>
 
 						    <article>
 							<h3 class="titre4">Formations</h3>
 
-							<ul class="formation">
-								<li>2021 Formation Dévelloppeur Front-end (Simplon Arras)</li>
-								<li>2011 BTS Technico Commercial (1ere année lycée Auguste Béhal - Lens)</li>
-								<li>2010 Bac pro commerce (Lycée d'Artois - Noeux les Mines)</li>
-								<li>2008 BEP Vente action marchande (Lycée d'Artois - Noeux les Mines)</li>
-							</ul>
+							
+								2021 Formation Dévelloppeur Front-end (Simplon Arras)
+								2011 BTS Technico Commercial (1ere année lycée Auguste Béhal - Lens)
+							    2010 Bac pro commerce (Lycée d'Artois - Noeux les Mines)
+								2008 BEP Vente action marchande (Lycée d'Artois - Noeux les Mines)
+							
 							</article>
+
+                            <br>
+                            <br>
 
 							<article>
 								<h3 class="titre5">Compétences et capacités
 								</h3>
-								<ul class="competence">
-									<li>Bon relationnel,accueil de la clientèle</li>
-									<li>Rigoureux, discret et autonome</li>
-									<li>Connaissance dans le développement de la partie front-end d'une application web ou mobile</li>
-									<li>Connaissance dans la création de processus d'intégration et de déploiement  continus d'un site ou application web</li>
-								</ul>
+								
+									Bon relationnel,accueil de la clientèle<br>
+									Rigoureux, discret et autonome<br>
+									Connaissance dans le développement de la partie front-end d'une application web ou mobile<br>
+									Connaissance dans la création de processus d'intégration et de déploiement  continus d'un site ou application web<br>
+								
 								</article>
 			</section>
 								</div>
